@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "32914581241",
+    "project_id": "statistics-1ba97",
+    "storage_bucket": "statistics-1ba97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32914581241:android:5c2f08935d434279d16428",
+        "android_client_info": {
+          "package_name": "com.aaco.threadly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHk17PB81K7uVK0lkbIqn9IGo8pBBJhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32914581241:android:aa854feb5517cc7fd16428",
+        "android_client_info": {
+          "package_name": "com.aaco.threadlymanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApHk17PB81K7uVK0lkbIqn9IGo8pBBJhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
